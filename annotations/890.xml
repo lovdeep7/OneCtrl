@@ -1,0 +1,34 @@
+<annotation>
+  <folder>images</folder>
+  <filename>890.jpeg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>1800</width>
+    <height>557</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>split_AC</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>304</xmin>
+      <ymin>29</ymin>
+      <xmax>576</xmax>
+      <ymax>200</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>split_AC</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1080</xmin>
+      <ymin>66</ymin>
+      <xmax>1748</xmax>
+      <ymax>472</ymax>
+    </bndbox>
+  </object>
+</annotation>

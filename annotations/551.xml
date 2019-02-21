@@ -1,0 +1,34 @@
+<annotation>
+  <folder>images</folder>
+  <filename>551.jpeg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>2840</width>
+    <height>1420</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>split_AC</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>28</xmin>
+      <ymin>77</ymin>
+      <xmax>1339</xmax>
+      <ymax>535</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>split_AC</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>45</xmin>
+      <ymin>770</ymin>
+      <xmax>1333</xmax>
+      <ymax>1159</ymax>
+    </bndbox>
+  </object>
+</annotation>

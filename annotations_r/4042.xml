@@ -1,0 +1,22 @@
+<annotation>
+  <folder>/home/raahish/Documents/Codes/darkflow-master/Dataset/olx_images_jpg/Batch</folder>
+  <filename>4042.jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>352</width>
+    <height>461</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>split_AC</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>24</xmin>
+      <ymin>165</ymin>
+      <xmax>328</xmax>
+      <ymax>293</ymax>
+    </bndbox>
+  </object>
+</annotation>

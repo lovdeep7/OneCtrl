@@ -1,0 +1,22 @@
+<annotation>
+  <folder>images</folder>
+  <filename>1248.jpeg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>1593</width>
+    <height>795</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>split_AC</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>805</xmin>
+      <ymin>77</ymin>
+      <xmax>1306</xmax>
+      <ymax>222</ymax>
+    </bndbox>
+  </object>
+</annotation>

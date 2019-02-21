@@ -1,0 +1,34 @@
+<annotation>
+  <folder>images</folder>
+  <filename>5385.png</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>1075</width>
+    <height>602</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>split_AC</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>586</xmin>
+      <ymin>178</ymin>
+      <xmax>985</xmax>
+      <ymax>301</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>split_AC</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>593</xmin>
+      <ymin>323</ymin>
+      <xmax>979</xmax>
+      <ymax>438</ymax>
+    </bndbox>
+  </object>
+</annotation>

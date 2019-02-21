@@ -1,0 +1,1 @@
+[{'topleft': {'y': 137, 'x': 398}, 'confidence': 0.22629349, 'bottomright': {'y': 526, 'x': 916}, 'label': 'split_AC'}, {'topleft': {'y': 195, 'x': 3}, 'confidence': 0.14252688, 'bottomright': {'y': 703, 'x': 1023}, 'label': 'split_AC'}]
